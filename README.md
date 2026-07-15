@@ -265,7 +265,7 @@ if (batteryPercentage < 20) {
   beepBuzzer(200); // Short warning beep
   beepBuzzer(200);
 }
-📚 References
+## 📚 References
 NRF24L01+ Datasheet
 ESP32 Documentation
 RF24 Library GitHub
@@ -273,20 +273,21 @@ RF24 Library GitHub
 📄 License
 This project is provided for educational purposes only. Users are responsible for ensuring compliance with local radio frequency regulations.
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! Please:
 
 Fork the repository
 Create a feature branch
 Submit a pull request with improvements
-✉️ Support
+# ✉️ Support
 For issues, questions, or suggestions, please open a GitHub issue or contact the maintainer.
 
-Last Updated: January 2025
+## Project status
+Last Updated: JULY 2026
 Version: 1.0.0
 Status: Stable ✅
 
-⚡ Quick Start Checklist
+## ⚡ Quick Start Checklist
  Hardware assembled and wired correctly
  Arduino IDE installed with ESP32 board support
  RF24 and LiquidCrystal_I2C libraries installed
@@ -297,4 +298,5 @@ Status: Stable ✅
  Buzzer beeps on power toggle
  Both NRF24 modules detected in Serial Monitor
  System ready for testing
-Happy Jamming! 🎯 (Responsibly and Legally)
+ 
+# **Happy Jamming!** (Responsibly and Legally)
