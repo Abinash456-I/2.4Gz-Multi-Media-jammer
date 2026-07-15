@@ -229,6 +229,7 @@ Confirm pull-up resistors enabled in code
 Check button connections to GND
 Test with digitalRead() in Serial Monitor
 Increase DEBOUNCE_DELAY if needed
+
 📊 Performance Specifications
 Parameter	Value
 RF Power Output	0dBm (1mW)
@@ -238,6 +239,7 @@ Channel Switching Speed	5ms
 LCD Refresh Rate	0.2Hz (off), varies when on
 Battery Runtime	~4-6 hours (1000mAh)
 Operating Temperature	0°C to 40°C
+
 📝 Code Example: Custom Jamming
 To add custom jamming frequencies:
 
