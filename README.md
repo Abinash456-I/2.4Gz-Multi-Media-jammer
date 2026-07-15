@@ -119,8 +119,7 @@ In Arduino IDE, go to **Sketch → Include Library → Manage Libraries** and in
 
 - **RF24** by TMRh20 (v1.4.7 or higher)
 - **LiquidCrystal_I2C** by Frank de Brabander
-
-```bash
+- 
 # Alternative: Install via command line
 # Replace [Library_Name] with the library name above
 Step 4: Configure Board Settings
