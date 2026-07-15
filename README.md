@@ -254,13 +254,17 @@ void jamCustom() {
     delay(channelDelay);
   }
 }
+
+
 🚀 Advanced Modifications
 Increase Transmission Power
 C++
 wifiJammer.setPALevel(RF24_PA_MAX); // Maximum power (0 dBm)
+
 Faster Channel Hopping
 C++
 const unsigned long channelDelay = 2; // Reduce from 5ms
+
 Battery Low Warning
 C++
 if (batteryPercentage < 20) {
