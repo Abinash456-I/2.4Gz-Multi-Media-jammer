@@ -280,7 +280,7 @@ Fork the repository
 Create a feature branch
 Submit a pull request with improvements
 # ✉️ Support
-For issues, questions, or suggestions, please open a GitHub issue or contact the maintainer.
+For issues, questions, or suggestions, please open a GitHub issue or contact me on Discord.
 
 ## Project status
 Last Updated: JULY 2026
