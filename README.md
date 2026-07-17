@@ -67,6 +67,8 @@ This project is for **educational and research purposes only**. Unauthorized jam
 | Resistor | 100kΩ | Voltage divider (×2) |
 | Jumper Wires | Various | Connections |
 | Breadboard | 830 holes | Component mounting |
+<img width="2816" height="1536" alt="Gemini_Generated_Image_kcmlkcmlkcmlkcml" src="https://github.com/user-attachments/assets/fabceb34-8149-46a2-af9f-972662d72a86" />
+
 
 ---
 
